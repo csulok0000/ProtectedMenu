@@ -1,0 +1,23 @@
+{
+    "name": "csulok0000/protected-menu",
+    "version": "1.0.0",
+    "type": "package",
+    "require": {
+        "php": ">=8.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Csik Tibor <csulok0000>",
+            "email": "csulok0000@gmail.com",
+            "homepage": "https:/csulok.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Csulok0000\\ProtectedMenu\\": "src/"
+        }
+    }
+    
+}
